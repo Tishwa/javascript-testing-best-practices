@@ -2,7 +2,7 @@
 
 <br/>
 
-# 👇 Pourquoi ce guide peut passer vos compétences de tests au niveau supérieur
+# 👇 Comment ce guide va faire passer vos tests au niveau supérieur
 
 <br/>
 
