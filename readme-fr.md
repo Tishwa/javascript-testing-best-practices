@@ -2,29 +2,29 @@
 
 <br/>
 
-# 👇 Why this guide can take your testing skills to the next level
+# 👇 Pourquoi ce guide peut passer vos compétences de tests au niveau supérieur
 
 <br/>
 
-## 📗 45+ best practices: Super-comprehensive and exhaustive
+## 📗 45+ bonnes pratiques: Approfondi et exhaustif
 
-This is a guide for JavaScript & Node.js reliability from A-Z. It summarizes and curates for you dozens of the best blog posts, books and tools the market has to offer
+Ce guide vous permettra d'améliorer la fiabilité de votre code Javascript & Node.js, avec des conseils détaillés de A à Z. Il regroupe et résume les meilleurs articles de blogs, livres et outils que l'on peut trouver sur le marché.
 
-## 🚢 Advanced: Goes 10,000 miles beyond the basics
+## 🚢 Avancé: Va 10,000km au-delà des bases
 
-Hop into a journey that travels way beyond the basics into advanced topics like testing in production, mutation testing, property-based testing and many other strategic & professional tools. Should you read every word in this guide your testing skills are likely to go way above the average
+Embarquez-vous dans un voyage qui va bien plus loin que les bases, et aventurez-vous dans des sujets tels que les tests en production, les tests de mutation, les tests basés sur les propriétés, et tant d'autres outils stratégiques et professionnels. Si vous arrivez au bout de ce guide, vos compétences en manière de test vont vraisemblablement dépasser la moyenne, et de loin.
 
-## 🌐 Full-stack: front, backend, CI, anything
+## 🌐 Full-stack: front, backend, CI, tout ce que vous voulez
 
-Start by understanding the ubiquitous testing practices that are the foundation for any application tier. Then, delve into your area of choice: frontend/UI, backend, CI or maybe all of them?
+Commencez par comprendre les pratiques de tests qui sont la fondation de tout niveau d'application. Ensuite, spécialisez-vous dans le domaine de votre choix: frontend/UI, backend, CI, ou peut-être tous?
 
 <br/>
 
-### Written By Yoni Goldberg
+### Écrit par Yoni Goldberg
 
-- A JavaScript & Node.js consultant
-- 📗 [Testing Node.js & JavaScript From A To Z](https://www.testjavascript.com) - My comprehensive online course with more than [10 hours of video](https://www.testjavascript.com), 14 test types and more than 40 best practices
-- [Follow me on Twitter ](https://twitter.com/goldbergyoni/)
+- Consultant en Javascript & Node.js
+- 📗 [Testing Node.js & JavaScript From A To Z](https://www.testjavascript.com) - Cours en ligne approfondi contenant [10 heures de video](https://www.testjavascript.com), 14 types de test et plus de 40 bonnes pratiques
+- [Suivez-moi sur Twitter](https://twitter.com/goldbergyoni/)
 
 <br/>
 
