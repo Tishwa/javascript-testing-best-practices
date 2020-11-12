@@ -56,26 +56,26 @@ Directives générales pour la CI dans le monde du JS (9 points)
 
 <br/><br/>
 
-# Section 0️⃣: The Golden Rule
+# Chapitre 0️⃣: La Règle d'Or
 
 <br/>
 
-## ⚪️ 0 The Golden Rule: Design for lean testing
+## ⚪️ 0 La Règle d'Or: Designer pour la simplicité
 
-:white_check_mark: **Do:**
-Testing code is not like production-code - design it to be dead-simple, short, abstraction-free, flat, delightful to work with, lean. One should look at a test and get the intent instantly.
+:white_check_mark: **A faire:**
+Le code qui fait tourner les tests ne doit pas ressembler au code de production. Il doit être simple, court, sans abstraction, limpide, facile à manipuler. Lorsqu'on regarde un test, on devrait en comprendre l'intention immédiatemment.
 
-Our minds are full with the main production code, we don't have 'headspace' for additional complexity. Should we try to squeeze yet another challenging code into our poor brain it will slow the team down which works against the reason we do testing. Practically this is where many teams just abandon testing.
+Le code de production suffit à nous occuper l'esprit, nous n'avons pas la tête libre pour plus de complexité. Essayer d'ajouter un bloc compliqué de plus dans notre pauvre cerveau ne ferait que ralentir l'équipe, ce qui irait à l'encontre de la raison même d'ajouter des tests. En pratique, c'est la raison pour laquelle beaucoup d'équipes abandonnent les tests.
 
-The tests are an opportunity for something else - a friendly and smiley assistant, one that it's delightful to work with and delivers great value for such a small investment. Science tells us that we have two brain systems: system 1 is used for effortless activities like driving a car on an empty road and system 2 which is meant for complex and conscious operations like solving a math equation. Design your test for system 1, when looking at test code it should _feel_ as easy as modifying an HTML document and not like solving 2X(17 × 24).
+Les tests sont l'opportunité de faire autre chose. Ils sont comme un assistant amical et souriant, avec qui il est agréable de travailler et qui apporte beaucoup de valeur pour un faible investissement. D'après la science, nous avons deux modes de fonctionnement du cerveau : le premier est utilisé pour les activités simples qui ne demandent pas d'effort, comme conduire une voiture sur une ligne droite, et le deuxième pour les acitivités complexes qui demandent de la réflexion, comme résoudre une équation de maths. Faites en sorte que vos tests fassent appel au premier, car lire des tests devrait ressembler plus à modifier un document HTML qu'à résoudre 2X(17 x 24).
 
-This can be achieved by selectively cherry-picking techniques, tools and test targets that are cost-effective and provide great ROI. Test only as much as needed, strive to keep it nimble, sometimes it's even worth dropping some tests and trade reliability for agility and simplicity.
+Pour y arriver, il faut sélectionner des techniques, outils et objectifs qui soient rentables et aient un bon retour sur investissement. Il ne faut tester que ce qui a besoin de l'être, lutter pour garder le tout maniable, et parfois cela peut impliquer d'abandonner quelques tests : on échange alors un peu de fiabilité contre de l'agilité et de la simplicité.
 
-![alt text](/assets/headspace.png "We have no head room for additional complexity")
+![alt text](/assets/headspace.png "Nous n'avons pas la place pour plus de complexité")
 
-Most of the advice below are derivatives of this principle.
+La plupart des conseils que vous trouverez par la suite dérivent de ce principe.
 
-### Ready to start?
+### Prêt à commencer ?
 
 <br/><br/>
 
