@@ -26,17 +26,6 @@ Commencez par comprendre les pratiques de tests qui sont la fondation de tout ni
 - 📗 [Testing Node.js & JavaScript From A To Z](https://www.testjavascript.com) - Cours en ligne approfondi contenant [10 heures de video](https://www.testjavascript.com), 14 types de test et plus de 40 bonnes pratiques
 - [Suivez-moi sur Twitter](https://twitter.com/goldbergyoni/)
 
-<br/>
-
-### Translations - read in your own language
-
-- 🇨🇳[Chinese](readme-zh-CN.md) - Courtesy of [Yves yao](https://github.com/yvesyao)
-- 🇰🇷[Korean](readme.kr.md) - Courtesy of [Rain Byun](https://github.com/ragubyun)
-- 🇵🇱[Polish](readme-pl.md) - Courtesy of [Michal Biesiada](https://github.com/mbiesiad)
-- 🇪🇸[Spanish](readme-es.md) - Courtesy of [Miguel G. Sanguino](https://github.com/sanguino)
-- 🇧🇷[Portuguese-BR](readme-pt-br.md) - Courtesy of [Iago Angelim Costa Cavalcante](https://github.com/iagocavalcante) , [Douglas Mariano Valero](https://github.com/DouglasMV) and [koooge](https://github.com/koooge)
-- Want to translate to your own language? please open an issue 💜
-
 <br/><br/>
 
 ## `Table of Contents`
