@@ -28,31 +28,31 @@ Commencez par comprendre les pratiques de tests qui sont la fondation de tout ni
 
 <br/><br/>
 
-## `Table of Contents`
+## `Table des matières`
 
-#### [`Section 0: The Golden Rule`](#section-0️⃣-the-golden-rule)
+#### [`Chapitre 0: La Règle d'Or`](#section-0️⃣-the-golden-rule)
 
-A single advice that inspires all the others (1 special bullet)
+Un unique conseil qui inspire tous les autres  (1 point spécial)
 
-#### [`Section 1: The Test Anatomy`](#section-1-the-test-anatomy-1)
+#### [`Chapitre 1: Anatomie d'un Test`](#section-1-the-test-anatomy-1)
 
-The foundation - structuring clean tests (12 bullets)
+La base : structurer des tests exemplaires (12 points)
 
-#### [`Section 2: Backend`](#section-2️⃣-backend-testing)
+#### [`Chapitre 2: Backend`](#section-2️⃣-backend-testing)
 
-Writing backend and Microservices tests efficiently (8 bullets)
+Écrire des tests backend et de micro-services de manière efficace (8 points)
 
-#### [`Section 3: Frontend`](#section-3️⃣-frontend-testing)
+#### [`Chapitre 3: Frontend`](#section-3️⃣-frontend-testing)
 
-Writing tests for web UI including component and E2E tests (11 bullets)
+Écrire des tests pour des interfaces web, y compris les composants et tests E2E (11 points)
 
-#### [`Section 4: Measuring Tests Effectiveness`](#section-4️⃣-measuring-test-effectiveness)
+#### [`Chapitre 4: Mesurer l'Efficacité des Tests`](#section-4️⃣-measuring-test-effectiveness)
 
-Watching the watchman - measuring test quality (4 bullets)
+Observer l'observateur : mesurer la qualité des tests (4 points)
 
-#### [`Section 5: Continuous Integration`](#section-5️⃣-ci-and-other-quality-measures)
+#### [`Chapitre 5: Intégration Continue`](#section-5️⃣-ci-and-other-quality-measures)
 
-Guidelines for CI in the JS world (9 bullets)
+Directives générales pour la CI dans le monde du JS (9 points)
 
 <br/><br/>
 
